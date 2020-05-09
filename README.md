@@ -1,4 +1,4 @@
-# Infix-to-postfix-converter-and-calculator
+# Infix to postfix converter and calculator
 
 This java program performs 
 1. Conversion of Infix into Postfix expression.
